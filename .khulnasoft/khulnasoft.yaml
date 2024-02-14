@@ -5,9 +5,9 @@ plugins:
   sources:
     - id: khulnasoft
       ref: v0.0.21
-      uri: https://github.com/khulnasoft.com/plugins
+      uri: https://github.com/khulnasoft/plugins
     - id: configs
-      uri: https://github.com/khulnasoft.com/configs
+      uri: https://github.com/khulnasoft/configs
       ref: v0.0.3
 lint:
   disabled:

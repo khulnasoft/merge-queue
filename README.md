@@ -83,7 +83,7 @@ jobs:
 <!-- end usage -->
 
 For more information on each possible argument you can provide, see
-[action.yaml](https://github.com/khulnasoft.com/merge-queue/blob/main/action.yaml).
+[action.yaml](https://github.com/khulnasoft/merge-queue/blob/main/action.yaml).
 
 ### Tests
 
